@@ -1,0 +1,168 @@
+{
+    "CustomPotionRecipes": {
+        "PrimalItemConsumable_FortitudePotion_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_CalienSoup.PrimalItemConsumable_Soup_CalienSoup'", "Quantity": 1},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_FriaCurry.PrimalItemConsumable_Soup_FriaCurry'", "Quantity": 1},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_StrengthPotion.PrimalItemResource_StrengthPotion'", "Quantity": 5}
+            ]
+        },
+        "PrimalItemConsumable_X2WeightPotion_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_FullStamina.PrimalItemConsumable_FullStamina'", "Quantity": 5},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_StrengthPotion.PrimalItemResource_StrengthPotion'", "Quantity": 10}
+            ]
+        },
+        "PrimalItemConsumable_X5WeightPotion_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Strength_Potions/PrimalItemConsumable_X5WeightPotion.PrimalItemConsumable_X5WeightPotion'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_FoodPotion.PrimalItemConsumable_FoodPotion'", "Quantity": 10},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_StrengthPotion.PrimalItemResource_StrengthPotion'", "Quantity": 5}
+            ]
+        },
+        "PrimalItemConsumable_MutationPotion_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_StaminaSoup.PrimalItemConsumable_StaminaSoup'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_ShadowSteak.PrimalItemConsumable_Soup_ShadowSteak'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_BattleTartare.PrimalItemConsumable_Soup_BattleTartare'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_StrengthPotion.PrimalItemResource_StrengthPotion'", "Quantity": 5}
+            ]
+        },
+        "PrimalItemConsumable_BuffHazardShield_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_StimulantPotion.PrimalItemConsumable_StimulantPotion'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AmmoniteBlood.PrimalItemResource_AmmoniteBlood'", "Quantity": 5},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup'", "Quantity": 20}
+            ]
+        },
+        "PrimalItemConsumable_BuffStamina_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_StrengthPotion.PrimalItemResource_StrengthPotion'", "Quantity": 5},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_FullStamina.PrimalItemConsumable_FullStamina'", "Quantity": 2}
+            ]
+        },
+        "PrimalItemConsumable_FullStamina_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Stimulant.PrimalItemConsumable_Stimulant'", "Quantity": 20},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_AgilityPotion.PrimalItemResource_AgilityPotion'", "Quantity": 2}
+            ]
+        },
+        "PrimalItemConsumable_SpeedPotionUnderwather_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_BreathingPotion.PrimalItemConsumable_BreathingPotion'", "Quantity": 5},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_StrengthPotion.PrimalItemResource_StrengthPotion'", "Quantity": 5},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_AgilityPotion.PrimalItemResource_AgilityPotion'", "Quantity": 5}
+            ]
+        },
+        "PrimalItemConsumable_BreathingPotion_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Small.PrimalItemConsumable_Kibble_Base_Small'", "Quantity": 5},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_IntelligencePotion.PrimalItemResource_IntelligencePotion'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_AgilityPotion.PrimalItemResource_AgilityPotion'", "Quantity": 2}
+            ]
+        },
+        "PrimalItemConsumable_SedativePotion_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom'", "Quantity": 20},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_AgilityPotion.PrimalItemResource_AgilityPotion'", "Quantity": 10}
+            ]
+        },
+        "PrimalItemConsumable_StimulantPotion_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_FullStamina.PrimalItemConsumable_FullStamina'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_AgilityPotion.PrimalItemResource_AgilityPotion'", "Quantity": 5},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg_Large.PrimalItemConsumable_Egg_Large'", "Quantity": 1}
+            ]
+        },
+        "PrimalItemConsumable_FoodPotion_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableMiracleGro.PrimalItemConsumableMiracleGro'", "Quantity": 2}
+            ]
+        },
+        "PrimalItemConsumable_NightVisionPotion_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_StaminaSoup.PrimalItemConsumable_StaminaSoup'", "Quantity": 4},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_AgilityPotion.PrimalItemResource_AgilityPotion'", "Quantity": 2}
+            ]
+        },
+        "PrimalItemConsumable_BuffCraftPotionV2_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup'", "Quantity": 1}
+            ]
+        },
+        "PrimalItemConsumable_50ResetMating_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom'", "Quantity": 1},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_IntelligencePotion.PrimalItemResource_IntelligencePotion'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Egg.PrimalItemConsumable_Egg'", "Quantity": 2}
+            ]
+        },
+        "PrimalItemConsumable_GenderChange_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Strength_Potions/PrimalItemConsumable_MutationPotion.PrimalItemConsumable_MutationPotion'", "Quantity": 1},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_FoodPotion.PrimalItemConsumable_FoodPotion'", "Quantity": 1},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Intelligence_Potions/PrimalItemConsumable_50ResetMating.PrimalItemConsumable_50ResetMating'", "Quantity": 1}
+            ]
+        },
+        "PrimalItemConsumable_ImprintOwnerPotion_С": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Intelligence_Potions/PrimalItemConsumable_50ResetMating.PrimalItemConsumable_50ResetMating'", "Quantity": 5}
+            ]
+        },
+        "PrimalItemConsumable_X2ExpPotion_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_TheHorn.PrimalItemConsumable_TheHorn'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup'", "Quantity": 4},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_StimulantPotion.PrimalItemConsumable_StimulantPotion'", "Quantity": 1},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_FoodPotion.PrimalItemConsumable_FoodPotion'", "Quantity": 1}
+            ]
+        },
+        "PrimalItemConsumable_DinoAntidot_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake'", "Quantity": 5},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_StimulantPotion.PrimalItemConsumable_StimulantPotion'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_StrengthPotion.PrimalItemResource_StrengthPotion'", "Quantity": 2}
+            ]
+        },
+        "PrimalItemConsumable_DwarfAle_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BeerJar.PrimalItemConsumable_BeerJar'", "Quantity": 4},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_StrengthPotion.PrimalItemResource_StrengthPotion'", "Quantity": 2}
+            ]
+        },
+        "PrimalItemConsumable_ElvenAle_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Strength_Potions/PrimalItemConsumable_DwarfAle.PrimalItemConsumable_DwarfAle'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_IntelligencePotion.PrimalItemResource_IntelligencePotion'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_AgilityPotion.PrimalItemResource_AgilityPotion'", "Quantity": 2}
+            ]
+        },
+        "PrimalItemConsumable_TPPlayerStatslMindWipe_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup'", "Quantity": 1}
+            ]
+        },
+        "PrimalItemConsumable_TPEngramsMindWipe_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup'", "Quantity": 1}
+            ]
+        },
+        "PrimalItemConsumable_TPSkillTreeMindWipe_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Intelligence_Potions/PrimalItemConsumable_X2ExpPotion.PrimalItemConsumable_X2ExpPotion'", "Quantity": 4},
+                {"ItemClass": "Blueprint'/TrockiiPotions/Items/Agility_Potions/PrimalItemConsumable_FoodPotion.PrimalItemConsumable_FoodPotion'", "Quantity": 5}
+            ]
+        },
+        "PrimalItemConsumable_TPDinoMindWipe_C": {
+            "RequiredItems": [
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup'", "Quantity": 2},
+                {"ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_StrengthPotion.PrimalItemResource_StrengthPotion'", "Quantity": 2}
+            ]
+        }
+    }
+}

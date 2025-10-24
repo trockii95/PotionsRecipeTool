@@ -1,0 +1,36 @@
+{
+  "CustomPotionRecipes": {
+    "PrimalItemConsumable_FullStamina_C": {
+      "RequiredItems": [
+        {
+          "ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_SubstrateAbsorbent.PrimalItemResource_SubstrateAbsorbent'",
+          "Quantity": 5
+        },
+        {
+          "ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AmmoniteBlood.PrimalItemResource_AmmoniteBlood'",
+          "Quantity": 44
+        },
+        {
+          "ItemClass": "Blueprint'/TrockiiPotions/Items/Basic_Potions/PrimalItemResource_StrengthPotion.PrimalItemResource_StrengthPotion'",
+          "Quantity": 1
+        }
+      ]
+    },
+    "PrimalItemConsumable_BuffCraftPotionV2_C": {
+      "RequiredItems": [
+        {
+          "ItemClass": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'",
+          "Quantity": 54
+        },
+        {
+          "ItemClass": "Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Silk.PrimalItemResource_Silk'",
+          "Quantity": 5
+        },
+        {
+          "ItemClass": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Tintoberry.PrimalItemConsumable_Berry_Tintoberry'",
+          "Quantity": 1
+        }
+      ]
+    }
+  }
+}
