@@ -1,4 +1,5 @@
 # Potion Recipes Config Editor for Ark Ascended
+<img width="813" height="645" alt="image" src="https://github.com/user-attachments/assets/00e8bf60-59cb-4359-aae0-5211301e5031" />
 
 ## Description
 
@@ -39,3 +40,7 @@ The generated JSON configuration should be placed in your `gameusersetting.ini` 
 ```ini
 [TROCKII_Potions]
 TP_OverrideRecipesJson=YOUR_GENERATED_JSON_HERE
+```
+
+<img width="807" height="646" alt="image" src="https://github.com/user-attachments/assets/760f85fa-8454-490b-adc1-65c39579e46f" />
+
